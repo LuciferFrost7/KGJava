@@ -1,0 +1,57 @@
+{
+  "Character": {
+    "Information": {
+      "name": "TestPlayer",
+      "ID": "#P0000000",
+      "Alive": true,
+      "Permission": false,
+      "LVL": 1,
+      "Expirience": 0,
+      "Coins": 0
+    },
+    "Stats": {
+      "MaxHP": 10,
+      "HP": 8,
+      "DMG": 2,
+      "DMGSpeed": 3,
+      "speed": 3,
+      "DP": 0,
+      "AbsoluteDP": 0
+    },
+    "Position": {
+      "x": 550,
+      "y": 350
+    }
+  },
+  "FastLine": {
+    "Slot": {
+      "slot0": "#I0000",
+      "slot1": "#I0000",
+      "slot2": "#I0000",
+      "slot3": "#I0000",
+      "slot4": "#I0000"
+    },
+    "ActiveSlot": 0
+  },
+  "Inventory": {
+    "Slot": {
+      "slot0": "#I0000",
+      "slot1": "#I0000",
+      "slot2": "#I0000",
+      "slot3": "#I0000",
+      "slot4": "#I0000",
+      "slot5": "#I0000",
+      "slot6": "#I0000",
+      "slot7": "#I0000",
+      "slot8": "#I0000",
+      "slot9": "#I0000",
+      "slot10": "#I0000",
+      "slot11": "#I0000"
+    },
+    "ArmorSlot": {
+      "slot0": "#I0000",
+      "slot1": "#I0000",
+      "slot2": "#I0000"
+    }
+  }
+}
